@@ -1,0 +1,97 @@
+/*
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+/* Basic */
+/* line 14, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+body {
+  background-color: #424242;
+  background-image: url("../../images/bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* line 21, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+body:before {
+  background: rgba(66, 66, 66, 0.8);
+  content: '';
+  display: block;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* line 32, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+body > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Features */
+/* line 41, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+.features article {
+  display: inline-block;
+  width: 45%;
+}
+
+/* Menu */
+/* line 50, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+#menu .inner {
+  margin: 4em auto;
+}
+
+/* Wrapper */
+/* line 58, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+#wrapper > header {
+  background: none !important;
+}
+
+/* line 65, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+.wrapper.spotlight .inner {
+  text-align: left !important;
+}
+
+/* line 69, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+.wrapper.spotlight .image {
+  display: inline-block;
+  margin: 0 3em 2em 0 !important;
+  vertical-align: middle;
+  width: 24%;
+}
+
+/* line 76, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+.wrapper.spotlight .content {
+  display: inline-block;
+  vertical-align: middle;
+  width: 70%;
+}
+
+/* Banner */
+/* line 86, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+#banner {
+  background: none !important;
+}
+
+/* Footer */
+/* line 92, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+#footer {
+  background: none !important;
+}
+
+/* line 96, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+#footer .inner form {
+  display: inline-block;
+  width: 45%;
+}
+
+/* line 101, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie9.scss */
+#footer .inner .contact {
+  display: inline-block;
+  width: 45%;
+}
+
+/*# sourceMappingURL=../css/ie9.map */
