@@ -4,34 +4,34 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /* Basic */
-/* line 14, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 14, /home/j3d4/code/solid/assets/sass/ie8.scss */
 body {
   -ms-behavior: url("assets/js/backgroundsize.min.htc");
 }
 
 /* Type */
-/* line 21, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 21, /home/j3d4/code/solid/assets/sass/ie8.scss */
 h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
   border-bottom: solid 2px #ffffff;
 }
 
-/* line 26, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 26, /home/j3d4/code/solid/assets/sass/ie8.scss */
 blockquote {
   border-left: solid 4px #ffffff;
 }
 
-/* line 30, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 30, /home/j3d4/code/solid/assets/sass/ie8.scss */
 code {
   border: solid 2px #ffffff;
 }
 
-/* line 34, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 34, /home/j3d4/code/solid/assets/sass/ie8.scss */
 hr {
   border-bottom: solid 2px #ffffff;
 }
 
 /* Button */
-/* line 40, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 40, /home/j3d4/code/solid/assets/sass/ie8.scss */
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
@@ -42,7 +42,7 @@ button,
   border: solid 2px #ffffff;
 }
 
-/* line 49, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 49, /home/j3d4/code/solid/assets/sass/ie8.scss */
 input[type="submit"].special,
 input[type="reset"].special,
 input[type="button"].special,
@@ -52,7 +52,7 @@ button.special,
 }
 
 /* Form */
-/* line 56, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 56, /home/j3d4/code/solid/assets/sass/ie8.scss */
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -66,49 +66,49 @@ textarea {
 }
 
 /* Table */
-/* line 72, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 72, /home/j3d4/code/solid/assets/sass/ie8.scss */
 table tbody tr {
   border: solid 1px #ffffff;
   border-left: 0;
   border-right: 0;
 }
 
-/* line 82, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 82, /home/j3d4/code/solid/assets/sass/ie8.scss */
 table.alt tbody tr td {
   border: solid 1px #ffffff;
   border-left-width: 0;
   border-top-width: 0;
 }
 
-/* line 87, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 87, /home/j3d4/code/solid/assets/sass/ie8.scss */
 table.alt tbody tr td:first-child {
   border-left-width: 1px;
 }
 
-/* line 93, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 93, /home/j3d4/code/solid/assets/sass/ie8.scss */
 table.alt tbody tr:first-child td {
   border-top-width: 1px;
 }
 
-/* line 100, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 100, /home/j3d4/code/solid/assets/sass/ie8.scss */
 table.alt thead {
   border-bottom: 0;
 }
 
-/* line 104, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 104, /home/j3d4/code/solid/assets/sass/ie8.scss */
 table.alt tfoot {
   border-top: 0;
 }
 
 /* Features */
-/* line 113, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 113, /home/j3d4/code/solid/assets/sass/ie8.scss */
 .features article {
   -ms-behavior: url("assets/js/ie/PIE.htc");
   position: relative;
   width: 44%;
 }
 
-/* line 118, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 118, /home/j3d4/code/solid/assets/sass/ie8.scss */
 .features article .image {
   margin-top: 0;
   margin-left: 0;
@@ -116,63 +116,63 @@ table.alt tfoot {
 }
 
 /* Menu */
-/* line 128, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 128, /home/j3d4/code/solid/assets/sass/ie8.scss */
 #menu {
   background: #424242;
 }
 
-/* line 131, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 131, /home/j3d4/code/solid/assets/sass/ie8.scss */
 #menu h2 {
   border-bottom: solid 2px #ffffff;
 }
 
 /* Header */
-/* line 138, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 138, /home/j3d4/code/solid/assets/sass/ie8.scss */
 #header {
   background-color: #4a4a4a;
 }
 
 /* Wrapper */
-/* line 144, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 144, /home/j3d4/code/solid/assets/sass/ie8.scss */
 .wrapper {
   margin: 0;
 }
 
-/* line 145, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 145, /home/j3d4/code/solid/assets/sass/ie8.scss */
 .wrapper:before, .wrapper:after {
   display: none;
 }
 
-/* line 152, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 152, /home/j3d4/code/solid/assets/sass/ie8.scss */
 .wrapper.spotlight .image {
   -ms-behavior: url("assets/js/ie/PIE.htc");
 }
 
-/* line 155, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 155, /home/j3d4/code/solid/assets/sass/ie8.scss */
 .wrapper.spotlight .image img {
   position: relative;
   -ms-behavior: url("assets/js/ie/PIE.htc");
 }
 
 /* Banner */
-/* line 167, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 167, /home/j3d4/code/solid/assets/sass/ie8.scss */
 #banner .logo .icon {
   border: solid 2px #ffffff;
   -ms-behavior: url("assets/js/ie/PIE.htc");
 }
 
-/* line 173, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 173, /home/j3d4/code/solid/assets/sass/ie8.scss */
 #banner h2 {
   border-bottom: solid 2px #ffffff;
 }
 
 /* Footer */
-/* line 182, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 182, /home/j3d4/code/solid/assets/sass/ie8.scss */
 #footer .inner .copyright {
   border-top: solid 2px #ffffff;
 }
 
-/* line 185, /run/user/1000/gvfs/sftp:host=batpi/home/j3d4/docker/solidstate/html/assets/sass/ie8.scss */
+/* line 185, /home/j3d4/code/solid/assets/sass/ie8.scss */
 #footer .inner .copyright li {
   border-left: solid 2px #ffffff;
 }
