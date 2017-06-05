@@ -2034,6 +2034,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 0.1em;
   margin: 0 0 1em 0;
+  text-transform: uppercase;
 }
 
 /* line 110, /home/j3d4/code/solid/assets/sass/base/_typography.scss */
@@ -3556,9 +3557,10 @@ body.is-menu-visible #menu .inner {
   font-size: 2.25em;
   margin-bottom: 0.8em;
   padding-bottom: 0.4em;
+  text-transform: none;
 }
 
-/* line 56, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+/* line 57, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
 #banner p {
   -moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
   -webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
@@ -3603,7 +3605,7 @@ body.is-menu-visible #menu .inner {
     padding: 12em 3em 12.375em 3em ;
     margin-bottom: -4.75em;
   }
-  /* line 96, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+  /* line 97, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
   #banner .inner {
     width: 100%;
   }
@@ -3615,25 +3617,25 @@ body.is-menu-visible #menu .inner {
     padding: 5em 2em 4.25em 2em ;
     margin-bottom: -2.5em;
   }
-  /* line 106, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+  /* line 107, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
   #banner .logo {
     margin: 0 0 1em 0;
   }
-  /* line 109, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+  /* line 110, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
   #banner .logo .icon {
     font-size: 1.5em;
   }
-  /* line 114, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+  /* line 115, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
   #banner h2 {
     font-size: 1.5em;
   }
-  /* line 118, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+  /* line 119, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
   #banner p {
     font-size: 0.8em;
   }
 }
 
-/* line 124, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+/* line 125, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
 body.is-loading #banner .logo {
   -moz-transform: translateY(0.5em);
   -webkit-transform: translateY(0.5em);
@@ -3642,7 +3644,7 @@ body.is-loading #banner .logo {
   opacity: 0;
 }
 
-/* line 129, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+/* line 130, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
 body.is-loading #banner h2 {
   opacity: 0;
   -moz-transform: translateX(0.25em);
@@ -3655,7 +3657,7 @@ body.is-loading #banner h2 {
   filter: blur(2px);
 }
 
-/* line 135, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
+/* line 136, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
 body.is-loading #banner p {
   opacity: 0;
   -moz-transform: translateX(0.5em);
