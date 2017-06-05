@@ -28,6 +28,7 @@
 			margin-bottom: 0;
 			opacity: 1;
 			visibility: visible;
+			text-transform: none;
 
 			a {
 				border: 0;
@@ -43,7 +44,7 @@
 			line-height: 3em;
 			position: absolute;
 			right: 0.7em;
-			// text-transform: uppercase;
+			text-transform: uppercase;
 			top: 0.7em;
 
 			a {
