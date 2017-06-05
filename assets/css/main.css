@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=VT323");
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,700|Source+Sans+Pro:300,600,300italic,600italic");
 /* Reset */
 /* line 529, /home/j3d4/code/solid/assets/sass/libs/_skel.scss */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -3525,7 +3525,6 @@ body.is-menu-visible #menu .inner {
 /* line 27, /home/j3d4/code/solid/assets/sass/layout/_banner.scss */
 #banner .logo .icon {
   border-radius: 100%;
-  border: solid 2px rgba(255, 255, 255, 0.125);
   cursor: default;
   display: inline-block;
   font-size: 2em;
